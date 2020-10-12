@@ -4,12 +4,12 @@
 |  VPN   | 特点  |
 |  ----  | ----  |
 | [PandaVPN](https://www.panhdpe.xyz/r/22216799) | 海外华人开发，有免费试用 |
-| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supervpn) | 顶级VPN品牌之一 |
-| [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn) | 顶级品牌（需翻墙后购买）|
+| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supertz) | 顶级VPN品牌之一 |
+| [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supertz) | 顶级品牌（需翻墙后购买）|
 | [SurfShark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401) | 不限设备数（需翻墙后购买） |
-| [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=supervpn) | 网速一流的VPN |
+| [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=supertz) | 网速一流的VPN |
 
-# 1
+
 # PandaVPN（熊猫）
 
 > 海外华人开发的VPN，在国内很好用
@@ -50,7 +50,7 @@ Panda有7天退款政策，但申请退款需要说明理由。如果你发现�
 2. 写邮件给 panda7x24@gmail.com，会工作日尽快回复你。
 3. PandaVPN客服支持中文，所以你可以直接用中文沟通，非常方便。
 
-# 2
+
 # ExpressVPN
 
 > 市场上最强跨设备通用翻墙软件
@@ -59,7 +59,7 @@ Panda有7天退款政策，但申请退款需要说明理由。如果你发现�
 
 ExpressVPN官方的说法是“受最近的政策原因影响”，不管厂商是什么想法，服务的退步都是我们的损失。
 
-但是，ExpressVPN仍然是穿墙能力最强的翻墙软件之一。如果想购买，可以先用[PandaVPN免费试用](https://www.panhdpe.xyz/r/22216799)，获得国外IP后，到[ExpressVPN官网](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn1)购买。
+但是，ExpressVPN仍然是穿墙能力最强的翻墙软件之一。如果想购买，可以先用[PandaVPN免费试用](https://www.panhdpe.xyz/r/22216799)，获得国外IP后，到[ExpressVPN官网](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supertz)购买。
 
 虽然ExpressVPN在特殊时期也会有点问题，但一年中97%的时间里使用都很流畅。每年不能用的时间大致在2-3个星期，会有几天时间出现连不上，
 
@@ -89,7 +89,7 @@ ExpressVPN支持的付款方式很多，包括支付宝、银联。买一年送3
 
 ExpressVPN同时支持5台设备，可配置Split Tunneling ，推荐香港、日本、新加坡、美国节点。
 
-### [ExpressVPN官网镜像，需翻墙后打开](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn)，可以用[PandaVPN免费试用](https://www.panhdpe.xyz/r/22216799)打开再购买
+### [ExpressVPN官网镜像，需翻墙后打开](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supertz)，可以用[PandaVPN免费试用](https://www.panhdpe.xyz/r/22216799)打开再购买
 
 
 
@@ -102,7 +102,7 @@ ExpressVPN提供30天内无理由退款，如果你发现它在你的设备和�
 
 > Hi，I would like to have a refund, because your service does not work for me. My account is xxx@xxx. Thank you.
 
-# 3
+
 # NordVPN
 
 NordVPN也是老牌的VPN，世界顶级的VPN厂商，之前有段时间在国内使用不稳定，不过经过一段时间的优化，NordVPN现在又非常好用了。
@@ -123,10 +123,8 @@ NordVPN官方还有所谓的优惠券，实际上赠送时长，一般是1个月
 
 #### 最近有效的优惠码是 NERDWRITER
 
-有需要优惠码的，可以在[Issues](https://github.com/Super-VPN/Super-VPN.github.io/issues)里留言，我尽力帮大家找！
 
-
-### [NordVPN官网镜像，可直接打开](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supervpn)
+### [NordVPN官网镜像，可直接打开](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supertz)
 
 
 
@@ -134,7 +132,7 @@ NordVPN支持30天无理由退款，如果你发现它在你的设备和网络�
 
 > Hi，I would like to have a refund, because your service does not work for me. My account is xxx@xxx. Thank you.
 
-# 4
+
 # SurfShark
 
 > 市场上少有的不限设备数量的VPN
